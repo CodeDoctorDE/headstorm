@@ -1,6 +1,6 @@
 # headstorm
 
-A new Flutter project.
+Organize your ideas
 
 ## Getting Started
 
